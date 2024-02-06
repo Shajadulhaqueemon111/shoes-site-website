@@ -1,0 +1,63 @@
+[
+    {
+      "shoeName": "Running Shoes",
+      "image": "https://i.ibb.co/dkQP0B2/Rectangle-3-6.png",
+      "price": 89.99
+    },
+    {
+      "shoeName": "Casual Sneakers",
+      "image": "https://i.ibb.co/nRLN9kp/Rectangle-3-7.png",
+      "price": 54.99
+    },
+    {
+      "shoeName": "Training Shoes",
+      "image": "https://i.ibb.co/dkQP0B2/Rectangle-3-6.png",
+      "price": 74.99
+    },
+    {
+      "shoeName": "Formal Leather",
+      "image": "https://i.ibb.co/vd2x1JG/Rectangle-3-9.png",
+      "price": 109.99
+    },
+    {
+      "shoeName": "Formal Leather",
+      "image": "https://i.ibb.co/FHpgShW/Rectangle-3-11.png",
+      "price": 100.99
+    },
+    {
+      "shoeName": "Formal Leather",
+      "image": "https://i.ibb.co/x8Mt85L/Rectangle-3-14.png",
+      "price": 105.99
+    },
+    {
+      "shoeName": "Formal Leather",
+      "image": "https://i.ibb.co/FHpgShW/Rectangle-3-11.png",
+      "price": 106.99
+    },
+    {
+      "shoeName": "Formal Leather",
+      "image": "https://i.ibb.co/MhFvMYw/Rectangle-3-17.png",
+      "price": 100.99
+    },
+    {
+      "shoeName": "Formal Leather",
+      "image": "https://i.ibb.co/FHpgShW/Rectangle-3-11.png",
+      "price": 109.99
+    },
+    {
+      "shoeName": "Formal Leather",
+      "image": "https://i.ibb.co/MhFvMYw/Rectangle-3-17.png",
+      "price": 78.99
+    },
+    {
+      "shoeName": "Formal Leather",
+      "image": "https://i.ibb.co/rcmgQ2T/Rectangle-3-19.png",
+      "price": 107.99
+    },
+    {
+      "shoeName": "Formal Leather",
+      "image": "https://i.ibb.co/FHpgShW/Rectangle-3-11.png",
+      "price": 107.99
+    }
+  ]
+  

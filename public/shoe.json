@@ -1,0 +1,23 @@
+[
+    {
+      "shoeName": "Running Shoes",
+      "image": "https://i.ibb.co/M5nQvV3/Rectangle-3.png",
+      "price": 89.99
+    },
+    {
+      "shoeName": "Casual Sneakers",
+      "image": "https://i.ibb.co/VJB2TCY/Rectangle-3-1.png",
+      "price": 54.99
+    },
+    {
+      "shoeName": "Training Shoes",
+      "image": "https://i.ibb.co/XFsF9Hd/Rectangle-3-5.png",
+      "price": 74.99
+    },
+    {
+      "shoeName": "Formal Leather",
+      "image": "https://i.ibb.co/PC1Hb9R/Rectangle-3-4.png",
+      "price": 109.99
+    }
+  ]
+  
